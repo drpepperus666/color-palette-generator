@@ -1,4 +1,4 @@
-# Chromia - Генератор цветовых палитр
+# color-palette-generator - Генератор цветовых палитр
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-HTML5-orange.svg)
@@ -42,3 +42,4 @@ cd color-palette-generator
 # Откройте index.html в браузере
 
 # или используйте Live Server в VS Code
+
