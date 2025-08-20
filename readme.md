@@ -41,5 +41,4 @@ cd color-palette-generator
 
 # Откройте index.html в браузере
 
-# или используйте Live Server в VS Code
 
